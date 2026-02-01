@@ -1,0 +1,14 @@
+{
+    "test_verify_products_page_loaded": {
+      "scenarios": [
+        {
+          "name": "Verify Products Page Loads After Login",
+          "description": "Verify that the Products page loads correctly after successful login",
+          "severity": "critical",
+          "username": "standard_user",
+          "password": "secret_sauce"
+        }
+      ]
+    }
+}
+

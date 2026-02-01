@@ -1,0 +1,17 @@
+{
+    "test_complete_checkout_flow": {
+      "scenarios": [
+        {
+          "name": "Complete Checkout Flow",
+          "description": "Verify complete checkout process from adding product to order completion",
+          "severity": "critical",
+          "username": "standard_user",
+          "password": "secret_sauce",
+          "first_name": "John",
+          "last_name": "Doe",
+          "postal_code": "12345"
+        }
+      ]
+    }
+}
+

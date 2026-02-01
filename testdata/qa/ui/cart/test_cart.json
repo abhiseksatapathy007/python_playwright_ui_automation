@@ -1,0 +1,14 @@
+{
+    "test_add_product_to_cart": {
+      "scenarios": [
+        {
+          "name": "Add Product to Cart",
+          "description": "Verify adding a product to cart and checking cart contents",
+          "severity": "critical",
+          "username": "standard_user",
+          "password": "secret_sauce"
+        }
+      ]
+    }
+}
+
